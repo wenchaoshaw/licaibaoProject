@@ -1,2 +1,2 @@
 # licaibaoProject
-布局理财PC页面
+响应式布局理财宝页面
